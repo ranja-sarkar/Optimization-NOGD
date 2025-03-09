@@ -1,5 +1,13 @@
 # Optimization algorithms
 
+**Part 3 of my book** briefly discusses mathematical optimization in several contexts.
+
+<img width="523" alt="55" src="https://github.com/user-attachments/assets/abd24d03-d67b-4972-90a7-befa18fb83c5" />
+
+
+Buy from Amazon: https://a.co/d/h3cRD25
+
+
 <img width="474" alt="5" src="https://github.com/user-attachments/assets/772ada5b-da96-40ab-a1c4-ac41130e3f7a" />
 
 The space for searching a global or local minima can be continuous or discrete.  
@@ -7,7 +15,7 @@ The space for searching a global or local minima can be continuous or discrete.
 <img width="437" alt="22" src="https://github.com/user-attachments/assets/f549e1c3-5f72-4e5a-b040-f9b5e1513427" />
 
 
-**Stochastic Optimization Algorithms for continuous variable values in cost function:**
+**Stochastic Optimization Algorithms** for continuous variable values in cost function:
 
 1. Simulated annealing
 
