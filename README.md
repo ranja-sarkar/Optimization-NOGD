@@ -11,5 +11,13 @@ The space for searching a global or local minima can be continuous or discrete.
 
 1. Simulated annealing
 
-2. Genetic algorithms
+   <img width="429" alt="11" src="https://github.com/user-attachments/assets/79424819-04bb-4897-8861-4a720418e41d" />
 
+It is a metaheuristic  probabilistic technique to approximate global optimization in a large search space of a physical process wherein the system energy is minimized.
+
+2. Genetic algorithms (evolutionary optimization)
+
+An evolutionary algorithm is a heuristic-based approach to solving problems that would take too long 
+to exhaustively process using deterministic methods. 
+
+<img width="182" alt="33" src="https://github.com/user-attachments/assets/ca2d940c-b64c-4791-b056-0c2eb8834998" />
