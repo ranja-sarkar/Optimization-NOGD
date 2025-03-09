@@ -28,3 +28,6 @@ It is a metaheuristic  probabilistic technique to approximate global optimizatio
 An evolutionary algorithm is a heuristic approach to solving problems that would take too long to exhaustively process using deterministic methods. 
 
 <img width="182" alt="33" src="https://github.com/user-attachments/assets/ca2d940c-b64c-4791-b056-0c2eb8834998" />
+
+
+# TO BE CONTINUED..
