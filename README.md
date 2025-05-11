@@ -11,7 +11,9 @@ Recap of gradient descent:
 
  <img width="554" alt="gd" src="https://github.com/user-attachments/assets/e234ca5a-4aae-4128-97fb-4765582e8900" />
 
-# Types of optimization problems
+# Optimization problems
+
+Based on the types of obective function and constraint variables, optimization problems can have 3 broad categories.   
 
 <img width="356" alt="oo" src="https://github.com/user-attachments/assets/bae0bab4-7f72-4049-9ef0-2e9c1e3579d3" />
 
