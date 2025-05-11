@@ -11,6 +11,12 @@ Recap of gradient descent:
 
  <img width="554" alt="gd" src="https://github.com/user-attachments/assets/e234ca5a-4aae-4128-97fb-4765582e8900" />
 
+# Types of optimization problems
+
+<img width="356" alt="oo" src="https://github.com/user-attachments/assets/bae0bab4-7f72-4049-9ef0-2e9c1e3579d3" />
+
+For more on this: https://github.com/ranja-sarkar/Hyperparameters/blob/main/The%20knapsack%20problem/optimization.md
+
 -----
 
 # Types of optimization algorithms
