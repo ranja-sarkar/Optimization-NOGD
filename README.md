@@ -15,11 +15,11 @@ Recap of gradient descent:
 
 # Types of optimization algorithms
 
-This is strictly based on whether or not one can calculate or compute the gradient of objective function. 
+The categorization is strictly based on whether or not one can calculate or compute the gradient of objective function. 
 
 <img width="474" alt="5" src="https://github.com/user-attachments/assets/772ada5b-da96-40ab-a1c4-ac41130e3f7a" />
 
-The space for searching global or local minimum solution wrt cost/objective function can be continuous or discrete.  
+The space for searching global or local minimum solution wrt cost/objective function can be either continuous or discrete.  
 
 <img width="437" alt="22" src="https://github.com/user-attachments/assets/f549e1c3-5f72-4e5a-b040-f9b5e1513427" />
 
