@@ -53,9 +53,9 @@ https://simonblanke.github.io/gradient-free-optimizers-documentation/1.5/optimiz
 
 PSO does not use the gradient of the problem being optimized, which means it does not require that the optimization problem be differentiable as is required by classic optimization methods such as gradient descent and quasi-newton methods. The caveat is metaheuristics such as PSO do not guarantee an optimal solution is ever found.
 
-# Summary
+# Summary of gradient-free optimization
 
-Types of metaheuristic algorithms:
+Types of metaheuristic algorithms broadly:
 
 <img width="572" alt="mh" src="https://github.com/user-attachments/assets/ae3cac4b-844a-48cf-8b48-3b2c035377a7" />
 
