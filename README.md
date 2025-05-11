@@ -29,12 +29,15 @@ These are also the ones that do not use gradient to optimize.
 
 It is a metaheuristic  probabilistic technique to approximate global optimization in a large search space of a physical process wherein the system energy is minimized.
 
+Reference: https://simonblanke.github.io/gradient-free-optimizers-documentation/1.5/optimizers/simulated_annealing/
+
 2. **Genetic algorithm** (GA)
 
 An evolutionary algorithm like GA is a stochastic, heuristic approach to solving problems that would take too long to exhaustively process using deterministic methods. 
 
 <img width="182" alt="33" src="https://github.com/user-attachments/assets/ca2d940c-b64c-4791-b056-0c2eb8834998" />
 
+Reference: https://simonblanke.github.io/gradient-free-optimizers-documentation/1.5/optimizers/genetic_algorithm/main_page/
 
 3. **Particle Swarm Optimization** (PSO)
 
