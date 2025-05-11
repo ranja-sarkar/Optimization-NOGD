@@ -43,7 +43,7 @@ These are also the ones that do not use gradient to optimize.
 
    <img width="429" alt="11" src="https://github.com/user-attachments/assets/79424819-04bb-4897-8861-4a720418e41d" />
 
-It is a metaheuristic probabilistic technique to approximate global optimization in a large search space of a physical process wherein the system energy is minimized.
+It is a metaheuristic probabilistic technique to approximate optimization in a search (local) space of a physical process wherein the system energy is minimized.
 
 Reference: https://simonblanke.github.io/gradient-free-optimizers-documentation/1.5/optimizers/simulated_annealing/
 
@@ -71,3 +71,6 @@ Types of metaheuristic algorithms broadly:
 
 <img width="572" alt="mh" src="https://github.com/user-attachments/assets/ae3cac4b-844a-48cf-8b48-3b2c035377a7" />
 
+Local search -> The algorithm works by choosing new positions within a neighbourhood of the previous positions. It is recommended for convex optimization problems.
+
+Global search -> The algorithm works by choosing new positions independently of the previous positions. It is recommended for non-convex optimization problems.
