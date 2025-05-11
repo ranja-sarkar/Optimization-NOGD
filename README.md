@@ -13,7 +13,7 @@ Recap of gradient descent:
 
 # Optimization problems
 
-Based on the types of obective function and constraint variables, optimization problems can have 3 broad categories.   
+Based on the types of objective function and constraint variables, optimization problems can have 3 broad categories.   
 
 <img width="356" alt="oo" src="https://github.com/user-attachments/assets/bae0bab4-7f72-4049-9ef0-2e9c1e3579d3" />
 
@@ -21,7 +21,7 @@ For more on this: https://github.com/ranja-sarkar/Hyperparameters/blob/main/The%
 
 -----
 
-# Types of optimization algorithms
+# Optimization algorithms/techniques
 
 The categorization is strictly based on whether or not one can calculate or compute the gradient of objective function. 
 
