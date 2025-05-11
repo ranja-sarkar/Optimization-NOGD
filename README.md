@@ -20,6 +20,10 @@ The space for searching global or local minimum solution wrt cost/objective func
 <img width="437" alt="22" src="https://github.com/user-attachments/assets/f549e1c3-5f72-4e5a-b040-f9b5e1513427" />
 
 
+An example of optimization problem with discrete variables in the objective function is the travelling salesamn problem (TSP).
+
+For more on TSP: https://developers.google.com/optimization/routing/tsp
+
 Well-known **optimization algorithms** for **continuous variables** in the objective function are simulated annealing, particle swarm method, genetic algorithm. 
 These are also the ones that do not use gradient to optimize.
 
@@ -49,4 +53,9 @@ https://simonblanke.github.io/gradient-free-optimizers-documentation/1.5/optimiz
 
 PSO does not use the gradient of the problem being optimized, which means it does not require that the optimization problem be differentiable as is required by classic optimization methods such as gradient descent and quasi-newton methods. The caveat is metaheuristics such as PSO do not guarantee an optimal solution is ever found.
 
+# Summary
+
+Types of metaheuristic algorithms:
+
+<img width="572" alt="mh" src="https://github.com/user-attachments/assets/ae3cac4b-844a-48cf-8b48-3b2c035377a7" />
 
