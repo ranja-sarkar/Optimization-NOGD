@@ -33,7 +33,9 @@ Reference: https://simonblanke.github.io/gradient-free-optimizers-documentation/
 
 2. **Genetic algorithm** (GA)
 
-An evolutionary algorithm like GA is a stochastic, heuristic approach to solving problems that would take too long to exhaustively process using deterministic methods. 
+An evolutionary algorithm like GA is a stochastic, metaheuristic approach to solving problems that would take too long to exhaustively process using deterministic methods. 
+
+GA is inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms. Genetic algorithms are commonly used to generate high-quality solutions to optimization and search problems via biologically inspired operators such as selection, crossover, and mutation.
 
 <img width="182" alt="33" src="https://github.com/user-attachments/assets/ca2d940c-b64c-4791-b056-0c2eb8834998" />
 
