@@ -27,7 +27,7 @@ These are also the ones that do not use gradient to optimize.
 
    <img width="429" alt="11" src="https://github.com/user-attachments/assets/79424819-04bb-4897-8861-4a720418e41d" />
 
-It is a metaheuristic  probabilistic technique to approximate global optimization in a large search space of a physical process wherein the system energy is minimized.
+It is a metaheuristic probabilistic technique to approximate global optimization in a large search space of a physical process wherein the system energy is minimized.
 
 Reference: https://simonblanke.github.io/gradient-free-optimizers-documentation/1.5/optimizers/simulated_annealing/
 
@@ -41,4 +41,10 @@ Reference: https://simonblanke.github.io/gradient-free-optimizers-documentation/
 
 3. **Particle Swarm Optimization** (PSO)
 
-   
+PSO is a metaheuristic as it makes few or no assumptions about the problem being optimized and can search very large spaces of candidate solutions. It was first used to simulate social behavior. 
+
+https://simonblanke.github.io/gradient-free-optimizers-documentation/1.5/optimizers/particle_swarm_optimization/
+
+PSO does not use the gradient of the problem being optimized, which means it does not require that the optimization problem be differentiable as is required by classic optimization methods such as gradient descent and quasi-newton methods. The caveat is metaheuristics such as PSO do not guarantee an optimal solution is ever found.
+
+
