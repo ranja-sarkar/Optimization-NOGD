@@ -1,4 +1,4 @@
-# Optimization algorithms
+# Optimization
 
 **Part 3 of my book consisting of two chapters** briefly discusses methods of mathematical optimization. ⬇️
 
@@ -7,6 +7,9 @@
 
 Buy the book from Amazon: https://a.co/d/h3cRD25
 
+-----
+
+# Categories of optimization algorithms
 
 <img width="474" alt="5" src="https://github.com/user-attachments/assets/772ada5b-da96-40ab-a1c4-ac41130e3f7a" />
 
