@@ -21,6 +21,7 @@ The space for searching global or local minimum solution wrt cost/objective func
 
 
 Well-known **optimization algorithms** for **continuous variables** in the objective function are simulated annealing, particle swarm method, genetic algorithm. 
+These are also the ones that do not use gradient to optimize.
 
 1. **Simulated annealing**
 
