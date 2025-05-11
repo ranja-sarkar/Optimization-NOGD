@@ -7,9 +7,13 @@
 
 Buy the book from Amazon: https://a.co/d/h3cRD25
 
+Recap of gradient descent:
+
+ <img width="554" alt="gd" src="https://github.com/user-attachments/assets/e234ca5a-4aae-4128-97fb-4765582e8900" />
+
 -----
 
-# Categories of optimization algorithms
+# Types of optimization algorithms
 
 This is strictly based on whether or not one can calculate or compute the gradient of objective function. 
 
