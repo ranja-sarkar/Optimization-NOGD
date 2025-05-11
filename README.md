@@ -11,6 +11,8 @@ Buy the book from Amazon: https://a.co/d/h3cRD25
 
 # Categories of optimization algorithms
 
+This is trictly based on whether or not one can calculate or compute the gradient of objectove function. 
+
 <img width="474" alt="5" src="https://github.com/user-attachments/assets/772ada5b-da96-40ab-a1c4-ac41130e3f7a" />
 
 The space for searching global or local minimum solution wrt cost/objective function can be continuous or discrete.  
