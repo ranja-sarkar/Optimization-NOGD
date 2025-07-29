@@ -1,15 +1,19 @@
 # Optimization
 
-**Part 3 of my book consisting of two chapters** briefly discusses methods of mathematical optimization. ⬇️
+**Part 3 of my book consisting of two chapters** briefly discusses methods of mathematical optimization.⬇️
 
 <img width="523" alt="55" src="https://github.com/user-attachments/assets/abd24d03-d67b-4972-90a7-befa18fb83c5" />
 
 
 Buy the book from Amazon: https://a.co/d/h3cRD25
 
-Recap of gradient descent:
+----
+
+Recap of GRADIENT DESCENT ⬇️
 
  <img width="554" alt="gd" src="https://github.com/user-attachments/assets/e234ca5a-4aae-4128-97fb-4765582e8900" />
+
+ ----
 
 # Optimization problems
 
