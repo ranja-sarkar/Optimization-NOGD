@@ -21,5 +21,8 @@ The knapsack data (excerpt from the book):
 
 The solution using PuLP (https://pypi.org/project/PuLP/) has been shown in the book. 
 
-Google OR-Tools: https://developers.google.com/optimization/introduction/python
+The solution may as well be found with pyomo (https://www.pyomo.org/). 
+
+Refer to the knapsack problem solved with pyomo: https://pyomo-simplemodel.readthedocs.io/en/latest/knapsack.html 
+
 
