@@ -21,7 +21,7 @@ For more on this: https://github.com/ranja-sarkar/Hyperparameters/blob/main/The%
 
 -----
 
-# Optimization algorithms/techniques
+# Optimization methods
 
 The categorization is strictly based on whether or not one can calculate or compute the gradient of objective function. 
 
