@@ -17,7 +17,7 @@ Based on the types of objective function and constraint variables, optimization 
 
 <img width="356" alt="oo" src="https://github.com/user-attachments/assets/bae0bab4-7f72-4049-9ef0-2e9c1e3579d3" />
 
-For more on this: https://github.com/ranja-sarkar/Hyperparameters/blob/main/The%20knapsack%20problem/optimization.md
+**Read the optimization markdown file to know more about them.** 
 
 -----
 
