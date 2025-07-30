@@ -17,6 +17,10 @@ Recap of GRADIENT DESCENT - optimization method used in machine learning to mini
 
 # Optimization problems
 
+
+An objective function defines the goal of the optimization problem, specifying what needs to be maximized or minimized.
+It's the function that  we try to optimize (either make as large or as small as possible) based on the given constraints of the problem. 
+
 Based on the types of objective function and constraint variables, optimization problems can have 3 broad categories.   
 
 <img width="356" alt="oo" src="https://github.com/user-attachments/assets/bae0bab4-7f72-4049-9ef0-2e9c1e3579d3" />
