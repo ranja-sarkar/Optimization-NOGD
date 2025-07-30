@@ -82,7 +82,7 @@ An excerpt from the book:
 
 <img width="402" alt="16" src="https://github.com/user-attachments/assets/34ae602c-6954-4c89-92d3-a737ab992bc2" />
 
-When we talk about convex and non-convex functions, we think of the **Hessian**. The Hessian matrix has two important utilities:
+When we talk about convex and concave functions, we think of the **Hessian**. The Hessian matrix has two important utilities:
 - to know whether a function is concave or convex
 
 <img width="562" alt="22" src="https://github.com/user-attachments/assets/c2114793-4dd7-43df-b504-9019046439ad" />
