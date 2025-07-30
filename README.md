@@ -42,12 +42,14 @@ The space for searching global or local minimum solution wrt cost/objective func
 <img width="437" alt="22" src="https://github.com/user-attachments/assets/f549e1c3-5f72-4e5a-b040-f9b5e1513427" />
 
 
-An example of optimization problem with discrete variables in the objective function is the travelling salesamn problem (TSP).
+An example of optimization problem with discrete variables in the objective function is the travelling salesman problem (TSP).
 
 For more on TSP: https://developers.google.com/optimization/routing/tsp
 
+-------------
+
 Well-known **optimization algorithms** for **continuous variables** in the objective function are simulated annealing, particle swarm method, genetic algorithm. 
-These are also the ones that do not use gradient to optimize.
+These are the ones that do not use gradient to optimize.
 
 1. **Simulated annealing**
 
