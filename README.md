@@ -9,7 +9,7 @@ Buy the book from Amazon: https://a.co/d/h3cRD25
 
 ----
 
-Recap of GRADIENT DESCENT ⬇️
+Recap of GRADIENT DESCENT - optimization method used in machine learning to minimize a function, often the loss function. It works by iteratively adjusting the model's parameters in the direction of the steepest descent of the function, aiming to find the minimum value.
 
  <img width="554" alt="gd" src="https://github.com/user-attachments/assets/e234ca5a-4aae-4128-97fb-4765582e8900" />
 
