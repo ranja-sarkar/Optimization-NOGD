@@ -42,7 +42,12 @@ The space for searching global or local minimum solution wrt cost/objective func
 <img width="437" alt="22" src="https://github.com/user-attachments/assets/f549e1c3-5f72-4e5a-b040-f9b5e1513427" />
 
 
-An example of optimization problem with discrete variables in the objective function is the travelling salesman problem (TSP).
+An example of optimization problem with discrete variables in the objective function is the travelling salesman problem (TSP). It asks, "what’s the shortest possible route visiting every city once and returning to the start?" As the number of cities grows, brute-force solutions become computationally infeasible.
+
+Read: https://diego.codes/post/som-tsp/
+
+This repository contains an implementation of a Self-organizing Map that can be used to find sub-optimal solutions for TSP-> https://github.com/diego-vicente/som-tsp
+
 
 For more on TSP: https://developers.google.com/optimization/routing/tsp
 
