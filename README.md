@@ -35,7 +35,7 @@ Solving various optimization problems using Google ORTools (python): https://dev
 
 # Optimization methods
 
-The categorization is strictly based on whether or not one can calculate or compute the gradient of objective function. 
+The categorization is strictly based on whether or not one can calculate or compute the gradient of objective function. The differentiability of the function makes us decide or choose the algorithm to use for the problem. This has been discussed in **chapter 10 of my book.** 
 
 <img width="474" alt="5" src="https://github.com/user-attachments/assets/772ada5b-da96-40ab-a1c4-ac41130e3f7a" />
 
@@ -56,7 +56,7 @@ For more on TSP: https://developers.google.com/optimization/routing/tsp
 -------------
 
 Well-known **optimization algorithms** for **continuous variables** in the objective function are simulated annealing, particle swarm method, genetic algorithm. 
-These are the ones that do not use gradient to optimize.
+These are the ones that do not use gradient to optimize the model.
 
 1. **Simulated annealing**
 
