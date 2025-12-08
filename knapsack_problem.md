@@ -14,15 +14,15 @@ This kind of packing problems falls under **integer optimization** or integer li
 
 For more packing problems and their optimization, please refer: https://developers.google.com/optimization/pack
 
-The knapsack data (excerpt from the book):
+The knapsack data, an excerpt from my book is here.
 
 <img width="407" alt="ksp" src="https://github.com/user-attachments/assets/76d4eb16-4bad-4446-ad86-78b404aa07ba">
 
 
 The solution using PuLP (https://pypi.org/project/PuLP/) has been shown in the book. 
 
-The solution may as well be found with pyomo (https://www.pyomo.org/). 
+Refer to the knapsack problem solved with [pyomo](https://www.pyomo.org/):-
 
-Refer to the knapsack problem solved with pyomo: https://pyomo-simplemodel.readthedocs.io/en/latest/knapsack.html 
+https://pyomo-simplemodel.readthedocs.io/en/latest/knapsack.html 
 
 
