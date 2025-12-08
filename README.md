@@ -114,22 +114,19 @@ These are the ones that do not use gradient to optimize the model.
 
 It is a metaheuristic probabilistic technique to approximate optimization in a search (local) space of a physical process wherein the system energy is minimized.
 
-Reference: https://simonblanke.github.io/gradient-free-optimizers-documentation/1.5/optimizers/simulated_annealing/
-
 Simulated annealing chooses its next possible position similar to Hill climbing, but it accepts worse results with a probability that decreases with time. It simulates a temperature that decreases with each iteration, similar to a material cooling down. One of the algo parameters is annealing rate which is the rate at which the algorithmic temperature value decreases. 
 
-[An annealing rate above 1 increases the temperature over time.]
+[An annealing rate above 1 increases the temperature over time.](https://simonblanke.github.io/gradient-free-optimizers-documentation/1.5/optimizers/simulated_annealing/)
 
 
 2. **Genetic algorithm** (GA)
 
 An evolutionary algorithm like GA is a stochastic, metaheuristic approach to solving problems that would take too long to exhaustively process using deterministic methods. 
 
-GA is inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms. Genetic algorithms are commonly used to generate high-quality solutions to optimization and search problems via biologically inspired operators such as selection, crossover, and mutation.
+GA is inspired by the process of natural selection that belongs to the larger class of [evolutionary algorithms](https://simonblanke.github.io/gradient-free-optimizers-documentation/1.5/optimizers/genetic_algorithm/main_page/). Genetic algorithms are commonly used to generate high-quality solutions to optimization and search problems via biologically inspired operators such as selection, crossover, and mutation.
 
 <img width="182" alt="33" src="https://github.com/user-attachments/assets/ca2d940c-b64c-4791-b056-0c2eb8834998" />
 
-Reference: https://simonblanke.github.io/gradient-free-optimizers-documentation/1.5/optimizers/genetic_algorithm/main_page/
 
 3. **Particle Swarm Optimization** (PSO)
 
