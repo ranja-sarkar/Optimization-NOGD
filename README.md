@@ -1,5 +1,5 @@
 
-**Part 3** of [my book](https://ranja-sarkar.github.io/) consisting of two chapters briefly discusses methods of mathematical optimization.
+**Part 3** of [my book](https://ranja-sarkar.github.io/) consisting of two chapters discusses methods of mathematical optimization.
 
 <img width="523" alt="55" src="https://github.com/user-attachments/assets/abd24d03-d67b-4972-90a7-befa18fb83c5" />
 
