@@ -132,10 +132,10 @@ GA is inspired by the process of natural selection that belongs to the larger cl
 
 ➡️ **Particle Swarm Optimization** 
 
-[PSO](https://simonblanke.github.io/gradient-free-optimizers-documentation/1.5/optimizers/particle_swarm_optimization/) is a metaheuristic as it makes few or no assumptions about the problem being optimized and can search very large spaces of candidate solutions. It was first used to simulate social behavior. 
+[PSO](https://simonblanke.github.io/gradient-free-optimizers-documentation/1.5/optimizers/particle_swarm_optimization/) is a metaheuristic as it makes few or no assumptions and can search very large spaces of candidate solutions to the problem. It was first used to simulate social behavior. 
 
 
-PSO does not use the gradient of the problem being optimized, which means it does not require that the optimization problem be differentiable as is required by classic optimization methods such as gradient descent and quasi-newton methods. The caveat is metaheuristics such as PSO do not guarantee an optimal solution is ever found.
+PSO does not use the gradient, which means it does not require that the optimization problem is differentiable as required by classical optimization methods such as gradient descent and quasi-newton methods. The caveat is that metaheuristic algorithms such as PSO do not guarantee that an optimal solution will ever be found.
 
 # Summary of gradient-free optimization
 
