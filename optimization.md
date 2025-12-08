@@ -1,12 +1,5 @@
 
 
-
-
-
-<img width="419" alt="222" src="https://github.com/user-attachments/assets/15dae48a-d29a-40a3-b5fd-7637cb8b55cb" />
-
-Jacobian is a matrix of gradients of a vector field.
-
 <img width="574" alt="333" src="https://github.com/user-attachments/assets/c5540b9c-e925-4307-bb65-8437720526eb" />
 
 
