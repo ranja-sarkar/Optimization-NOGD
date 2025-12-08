@@ -21,7 +21,7 @@ The knapsack data, an excerpt from my book is here.
 
 The solution using [PuLP](https://pypi.org/project/PuLP/) has been shown in the book. 
 
-Refer to the knapsack problem solved with [pyomo](https://www.pyomo.org/):-
+Refer to the knapsack problem solved with [pyomo](https://www.pyomo.org/) :-
 
 https://pyomo-simplemodel.readthedocs.io/en/latest/knapsack.html 
 
