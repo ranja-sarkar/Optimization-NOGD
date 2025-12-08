@@ -1,11 +1,6 @@
 
 
 
-Blog on LP in python: https://mlabonne.github.io/blog/posts/2022-03-02-Linear_Programming.html
-
-
-# QP example
-
 Portfolio optimization: https://www.cvxpy.org/examples/basic/quadratic_program.html
 
 Convex optimization: https://www.cvxpy.org/
