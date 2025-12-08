@@ -6,7 +6,7 @@
 
 # GRADIENT DESCENT 
 
-Let's recapitulate gradient descent. 
+Let's recapitulate [gradient descent](https://github.com/ranja-sarkar/GD/blob/main/README.md). 
 
 It is an optimization algorithm utilized in regression models, neural networks to minimize a function called the loss function, also called cost function. It works by iteratively adjusting the model's parameters in the direction of the steepest descent of the function, aiming to find the minimum value point.
 
