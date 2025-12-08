@@ -42,13 +42,7 @@ Portfolio optimization: https://www.cvxpy.org/examples/basic/quadratic_program.h
 
 Convex optimization: https://www.cvxpy.org/
 
-In my book (**chapter 4**), I have briefly touched upon convex functions and their optimization.
-
-<img width="173" alt="rr" src="https://github.com/user-attachments/assets/60c42c5e-e9d8-4223-9b75-c5f7b356911e" />
-
-Buy from Amazon: https://a.co/d/6U6Q6WT
-
-An excerpt from the book:
+An excerpt from my book (chapter 4) where I briefly touched upon convex functions and their optimization.
 
 <img width="402" alt="16" src="https://github.com/user-attachments/assets/34ae602c-6954-4c89-92d3-a737ab992bc2" />
 
