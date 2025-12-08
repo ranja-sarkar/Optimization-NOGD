@@ -41,7 +41,7 @@ Based on the types of objective function and constraint variables, [optimization
 
 Optimization uses a rigorous mathematical model to determine the most efficient solution to a described problem. One must first identify an objective function (loss or cost), a quantitative measure examples of which are profit, cost, energy. The objective is subject to constraints such as resources, time. 
 
- 1. **Linear Programming (LP)** ->  Objective function and constraints are both linear
+ 1. **Linear Programming (LP)** 
 
     Example:
 
@@ -57,9 +57,10 @@ Optimization uses a rigorous mathematical model to determine the most efficient 
 
        Objective function maximizes total sales. Resource and time constraints are given by:
 
+    <img width="419" height="193" alt="cf" src="https://github.com/user-attachments/assets/def837f1-fc0d-4198-93f3-937e17b3f143" />
 
  
- 3. **Quadratic Programming (QP)** -> Objective function is quadratic and constraints are linear
+ 3. **Quadratic Programming (QP)** 
  
  4. **Non-Linear Programming** -> Objective function or (atleast one) constraint is non-linear
 
