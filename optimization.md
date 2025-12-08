@@ -1,8 +1,4 @@
 
-
-<img width="574" alt="333" src="https://github.com/user-attachments/assets/c5540b9c-e925-4307-bb65-8437720526eb" />
-
-
 # Classification of Optimization Problems
 
 Optimization uses a rigorous mathematical model to determine the most efficient solution to a described problem. 
