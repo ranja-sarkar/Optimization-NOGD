@@ -70,7 +70,15 @@ Solution: Optimal x1 and x2 are 45 and 75 respectively.
 
     <img width="478" height="178" alt="cnc" src="https://github.com/user-attachments/assets/69e41cee-74e3-4587-b5cf-b7918c484f2b" />
 
- When we talk about convex and concave functions, we think of the Hessian matrix. The Hessian matrix has two important utilities - to know whether a function is concave or convex, to determine whether a critical point is a local minimum or maximum, or a saddle point [If the gradient of a function is zero at some point, that is f(x)=0, then function f has a critical point at x].
+ When we talk about convex and concave functions, we think of the Hessian matrix. 
+
+ <img width="224" height="164" alt="co" src="https://github.com/user-attachments/assets/4c60d753-9dfd-4187-85fc-1737db06dc1d" />
+
+ 
+ The Hessian matrix has two important utilities - to know whether a function is concave or convex, to determine whether a critical point is a local minimum or maximum, or a saddle point [If the gradient of a function is zero at some point, that is f(x)=0, then function f has a critical point at x].
+
+<img width="562" height="182" alt="001" src="https://github.com/user-attachments/assets/8bfb01f8-7019-42e8-807a-fa2a69580c13" />
+<img width="563" height="188" alt="002" src="https://github.com/user-attachments/assets/8d52063b-1f05-4938-84ff-1e803475a3a0" />
 
 
  3. **Non-Linear Programming** -> Objective function or (atleast one) constraint is non-linear
