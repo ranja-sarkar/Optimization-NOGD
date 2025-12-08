@@ -4,7 +4,7 @@
 <img width="523" alt="55" src="https://github.com/user-attachments/assets/abd24d03-d67b-4972-90a7-befa18fb83c5" />
 
 
-# GRADIENT DESCENT 
+# Gradient Descent
 
 Let's recapitulate [gradient descent](https://github.com/ranja-sarkar/GD/blob/main/README.md). 
 
@@ -59,9 +59,9 @@ Optimization uses a rigorous mathematical model to determine the most efficient 
 
     <img width="419" height="193" alt="cf" src="https://github.com/user-attachments/assets/def837f1-fc0d-4198-93f3-937e17b3f143" />
 
-Solution: Optimal x1 and x2 are 45 and 75 respectively.
+    Solution: Optimal x1 and x2 are 45 and 75 respectively.
 
-<img width="464" height="294" alt="of" src="https://github.com/user-attachments/assets/534b08c1-6f30-446e-8dbb-7c2733c6151a" />
+    <img width="464" height="294" alt="of" src="https://github.com/user-attachments/assets/534b08c1-6f30-446e-8dbb-7c2733c6151a" />
 
  
 ▶️ [Quadratic Programming (QP)](https://www.cvxpy.org/examples/basic/quadratic_program.html)
@@ -119,7 +119,7 @@ Simulated annealing chooses its next possible position similar to Hill climbing,
 [An annealing rate above 1 increases the temperature over time.](https://simonblanke.github.io/gradient-free-optimizers-documentation/1.5/optimizers/simulated_annealing/)
 
 
-➡️ **Genetic algorithm** (GA)
+➡️ **Genetic algorithm**
 
 An evolutionary algorithm like GA is a stochastic, metaheuristic approach to solving problems that would take too long to exhaustively process using deterministic methods. 
 
@@ -129,7 +129,7 @@ GA is inspired by the process of natural selection that belongs to the larger cl
 
 
 
-➡️ **Particle Swarm Optimization** (PSO)
+➡️ **Particle Swarm Optimization** 
 
 [PSO](https://simonblanke.github.io/gradient-free-optimizers-documentation/1.5/optimizers/particle_swarm_optimization/) is a metaheuristic as it makes few or no assumptions about the problem being optimized and can search very large spaces of candidate solutions. It was first used to simulate social behavior. 
 
