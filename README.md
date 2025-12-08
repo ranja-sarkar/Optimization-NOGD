@@ -8,7 +8,7 @@
 
 Let's recapitulate [gradient descent](https://github.com/ranja-sarkar/GD/blob/main/README.md). 
 
-It is an optimization algorithm utilized in regression models, neural networks to minimize a function called the loss function, also called cost function. It works by iteratively adjusting the model's parameters in the direction of the steepest descent of the function, aiming to find the minimum value point.
+It is an optimization algorithm **utilized in regression models, neural networks** to minimize a function called the loss function, also called cost function. It works by iteratively adjusting the model's parameters in the direction of the steepest descent of the function, aiming to find the minimum value point.
 
  <img width="554" alt="gd" src="https://github.com/user-attachments/assets/e234ca5a-4aae-4128-97fb-4765582e8900" />
 
@@ -61,7 +61,7 @@ Optimization uses a rigorous mathematical model to determine the most efficient 
 
     Solution: Optimal x1 and x2 are 45 and 75 respectively.
 
-    <img width="464" height="294" alt="of" src="https://github.com/user-attachments/assets/534b08c1-6f30-446e-8dbb-7c2733c6151a" />
+ <img width="464" height="294" alt="of" src="https://github.com/user-attachments/assets/534b08c1-6f30-446e-8dbb-7c2733c6151a" />
 
  
 ▶️ [Quadratic Programming (QP)](https://www.cvxpy.org/examples/basic/quadratic_program.html)
