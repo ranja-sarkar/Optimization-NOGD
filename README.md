@@ -1,13 +1,8 @@
-# Optimization
 
 **Part 3 of my book consisting of two chapters** briefly discusses methods of mathematical optimization.⬇️
 
 <img width="523" alt="55" src="https://github.com/user-attachments/assets/abd24d03-d67b-4972-90a7-befa18fb83c5" />
 
-
-Buy the book from Amazon: https://a.co/d/h3cRD25
-
-![tem](https://github.com/user-attachments/assets/520fb3fd-5208-41c0-a716-dc4c3e4b3704)
 
 ----
 
