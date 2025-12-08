@@ -66,9 +66,9 @@ Optimization uses a rigorous mathematical model to determine the most efficient 
  
 ▶️ [Quadratic Programming (QP)](https://www.cvxpy.org/examples/basic/quadratic_program.html)
 
-    [Quadratic programs](https://scaron.info/blog/quadratic-programming-in-python.html) hey are the first step beyond linear programming in [convex optimization](https://www.cvxpy.org/). In chapter 4 of my book, I briefly touched upon convex functions and their optimization.
+[Quadratic programs](https://scaron.info/blog/quadratic-programming-in-python.html) hey are the first step beyond linear programming in [convex optimization](https://www.cvxpy.org/). In chapter 4 of my book, I briefly touched upon convex functions and their optimization.
 
-    <img width="478" height="178" alt="cnc" src="https://github.com/user-attachments/assets/69e41cee-74e3-4587-b5cf-b7918c484f2b" />
+ <img width="478" height="178" alt="cnc" src="https://github.com/user-attachments/assets/69e41cee-74e3-4587-b5cf-b7918c484f2b" />
 
  When we talk about convex and concave functions, we think of the Hessian matrix. 
 
@@ -128,11 +128,9 @@ GA is inspired by the process of natural selection that belongs to the larger cl
 <img width="182" alt="33" src="https://github.com/user-attachments/assets/ca2d940c-b64c-4791-b056-0c2eb8834998" />
 
 
-
 ➡️ **Particle Swarm Optimization** 
 
 [PSO](https://simonblanke.github.io/gradient-free-optimizers-documentation/1.5/optimizers/particle_swarm_optimization/) is a metaheuristic as it makes few or no assumptions about the problem being optimized and can search very large spaces of candidate solutions. It was first used to simulate social behavior. 
-
 
 
 PSO does not use the gradient of the problem being optimized, which means it does not require that the optimization problem be differentiable as is required by classic optimization methods such as gradient descent and quasi-newton methods. The caveat is metaheuristics such as PSO do not guarantee an optimal solution is ever found.
@@ -146,3 +144,5 @@ PSO does not use the gradient of the problem being optimized, which means it doe
 Local search -> The algorithm works by choosing new positions within a neighbourhood of the previous positions. It is recommended for convex optimization problems.
 
 Global search -> The algorithm works by choosing new positions independently of the previous positions. It is recommended for non-convex optimization problems.
+
+
