@@ -89,7 +89,7 @@ The LASSO regularization technique used in regression problems can be formulated
 
 A classic example of a problem solved by nonlinear programming is portfolio optimization (finance). There are [multiple python libraries](https://github.com/marcelcases/nonlinear-optimization) that can be used to run the algorithm and solve the problem. 
 
-# Optimization with or without gradient
+# Optimization without gradient
 
 The categorization/classification of optimization problems is strictly based on whether or not one can calculate/compute the gradient of objective function. The differentiability of the function makes us decide/choose the algorithm to be used for solving the problem. This has been discussed in **chapter 10 of my book.** 
 
