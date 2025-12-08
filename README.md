@@ -41,7 +41,7 @@ Based on the types of objective function and constraint variables, [optimization
 
 Optimization uses a rigorous mathematical model to determine the most efficient solution to a described problem. One must first identify an objective function (loss or cost), a quantitative measure examples of which are profit, cost, energy. The objective is subject to constraints such as resources, time. 
 
- 1. [Linear Programming (LP)](https://mlabonne.github.io/blog/posts/2022-03-02-Linear_Programming.html) 
+ ▶️  [Linear Programming (LP)](https://mlabonne.github.io/blog/posts/2022-03-02-Linear_Programming.html) 
 
     Example:
 
@@ -64,7 +64,7 @@ Solution: Optimal x1 and x2 are 45 and 75 respectively.
 <img width="464" height="294" alt="of" src="https://github.com/user-attachments/assets/534b08c1-6f30-446e-8dbb-7c2733c6151a" />
 
  
- 2. [Quadratic Programming (QP)](https://www.cvxpy.org/examples/basic/quadratic_program.html)
+▶️ [Quadratic Programming (QP)](https://www.cvxpy.org/examples/basic/quadratic_program.html)
 
     [Quadratic programs](https://scaron.info/blog/quadratic-programming-in-python.html) hey are the first step beyond linear programming in [convex optimization](https://www.cvxpy.org/). In chapter 4 of my book, I briefly touched upon convex functions and their optimization.
 
@@ -82,7 +82,7 @@ Solution: Optimal x1 and x2 are 45 and 75 respectively.
 
 
 
- 3. [Non-Linear Programming](https://paulminogue.com/posts/a0d8c837-a40d-4b17-9d30-e0bd36a6befc)
+ ▶️ [Non-Linear Programming](https://paulminogue.com/posts/a0d8c837-a40d-4b17-9d30-e0bd36a6befc)
 
 A classic example of a problem solved by nonlinear programming is portfolio optimization (finance). There are [multiple python libraries](https://github.com/marcelcases/nonlinear-optimization) that can be used to run the algorithm and solve the problem. 
 
@@ -106,7 +106,7 @@ A Self-organizing Map (SOM) can be implemented to find sub-optimal solutions of 
 Well-known optimization algorithms for **continuous variables in the objective function** are simulated annealing, particle swarm method, genetic algorithm. 
 These are the ones that do not use gradient to optimize the model.
 
-1. **Simulated annealing**
+➡️ **Simulated annealing**
 
    A Hill climbing algorithm is very basic optimization that explores a local search space. It starts at an initial point, which is often chosen randomly and continues to move to positions within its neighbourhood with a better solution. To execute it, we need to define the search space, step size of the algo, number of iterations, and an objective function. 
 
@@ -119,7 +119,7 @@ Simulated annealing chooses its next possible position similar to Hill climbing,
 [An annealing rate above 1 increases the temperature over time.](https://simonblanke.github.io/gradient-free-optimizers-documentation/1.5/optimizers/simulated_annealing/)
 
 
-2. **Genetic algorithm** (GA)
+➡️ **Genetic algorithm** (GA)
 
 An evolutionary algorithm like GA is a stochastic, metaheuristic approach to solving problems that would take too long to exhaustively process using deterministic methods. 
 
@@ -129,7 +129,7 @@ GA is inspired by the process of natural selection that belongs to the larger cl
 
 
 
-3. **Particle Swarm Optimization** (PSO)
+➡️ **Particle Swarm Optimization** (PSO)
 
 [PSO](https://simonblanke.github.io/gradient-free-optimizers-documentation/1.5/optimizers/particle_swarm_optimization/) is a metaheuristic as it makes few or no assumptions about the problem being optimized and can search very large spaces of candidate solutions. It was first used to simulate social behavior. 
 
