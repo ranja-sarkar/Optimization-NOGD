@@ -55,9 +55,10 @@ Optimization uses a rigorous mathematical model to determine the most efficient 
 
     Mathematical Formulation:
 
-       Objective function maximizes total sales. Resource and time constraints are given by:
+       Objective function is maximizing total sales (x1 = #items of product A, x2 = #items of product B). Resource and time constraints are given by:
 
     <img width="419" height="193" alt="cf" src="https://github.com/user-attachments/assets/def837f1-fc0d-4198-93f3-937e17b3f143" />
+
 
  
  3. **Quadratic Programming (QP)** 
