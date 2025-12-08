@@ -21,9 +21,7 @@ When we talk about convex and concave functions, we think of the **Hessian**. Th
 <img width="199" alt="pp" src="https://github.com/user-attachments/assets/85c5f867-00f3-4750-bc4e-7c63b06d87a9" />
 
 
-In general, QP in python: https://scaron.info/blog/quadratic-programming-in-python.html
-
-# NLP example
+------
 
 
 <img width="425" alt="12" src="https://github.com/user-attachments/assets/3226387d-f786-4df7-a43a-b965595c6d87" />
