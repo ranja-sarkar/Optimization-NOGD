@@ -1,20 +1,5 @@
 
 
-# LP example
-
- **Objective function**:
- 
- 1. Goal is to maximize total profit
- 2. Products A and B are sold at 25$ and 20$ respectively
-
-    
- **Constraints**:
- 
- 1. Product A requires 20 resource units, product B 12 units
- 2. Only 1800 resource units are available per day
- 3. Both products require a production time of 1/15 hour
- 4. A working day has a total of 8 hours.
-
 **Mathematical Formulation:**
 
 Objective function maximizes total sales. 
