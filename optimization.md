@@ -1,11 +1,6 @@
 
 
 
-Convex optimization: https://www.cvxpy.org/
-
-An excerpt from my book (chapter 4) where I briefly touched upon convex functions and their optimization.
-
-<img width="402" alt="16" src="https://github.com/user-attachments/assets/34ae602c-6954-4c89-92d3-a737ab992bc2" />
 
 When we talk about convex and concave functions, we think of the **Hessian**. The Hessian matrix has two important utilities:
 - to know whether a function is concave or convex
