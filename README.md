@@ -64,7 +64,7 @@ Solution: Optimal x1 and x2 are 45 and 75 respectively.
 <img width="464" height="294" alt="of" src="https://github.com/user-attachments/assets/534b08c1-6f30-446e-8dbb-7c2733c6151a" />
 
  
- 3. **Quadratic Programming (QP)** 
+ 2. [Quadratic Programming (QP)](https://www.cvxpy.org/examples/basic/quadratic_program.html) 
  
  4. **Non-Linear Programming** -> Objective function or (atleast one) constraint is non-linear
 
