@@ -88,7 +88,7 @@ A classic example of a problem solved by nonlinear programming is portfolio opti
 
 # Optimization with or without gradient
 
-The categorization is strictly based on whether or not one can calculate or compute the gradient of objective function. The differentiability of the function makes us decide or choose the algorithm to use for the problem. This has been discussed in **chapter 10 of my book.** 
+The categorization/classification of optimization problems is strictly based on whether or not one can calculate/compute the gradient of objective function. The differentiability of the function makes us decide/choose the algorithm to be used for solving the problem. This has been discussed in **chapter 10 of my book.** 
 
 <img width="474" alt="5" src="https://github.com/user-attachments/assets/772ada5b-da96-40ab-a1c4-ac41130e3f7a" />
 
@@ -97,14 +97,9 @@ The space for searching global or local minimum solution wrt cost/objective func
 <img width="437" alt="22" src="https://github.com/user-attachments/assets/f549e1c3-5f72-4e5a-b040-f9b5e1513427" />
 
 
-An example of optimization problem with discrete variables in the objective function is the travelling salesman problem (TSP). It asks, "what’s the shortest possible route visiting every city once and returning to the start?" As the number of cities grows, brute-force solutions become computationally infeasible.
+An example of optimization problem with discrete variables in the objective function is the [travelling salesman problem (TSP)](https://diego.codes/post/som-tsp/). It asks, "what’s the shortest possible route visiting every city once and returning to the start?" As the number of cities grows, brute-force solutions become computationally infeasible.
 
-Read: https://diego.codes/post/som-tsp/
-
-This repository contains an implementation of a Self-organizing Map that can be used to find sub-optimal solutions for TSP-> https://github.com/diego-vicente/som-tsp
-
-
-For more on TSP: https://developers.google.com/optimization/routing/tsp
+A Self-organizing Map (SOM) can be implemented to find sub-optimal solutions of TSP.
 
 # Gradient-free optimizers
 
