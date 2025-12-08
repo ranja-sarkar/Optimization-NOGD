@@ -13,16 +13,6 @@ It is an optimization algorithm utilized in regression models, neural networks t
  <img width="554" alt="gd" src="https://github.com/user-attachments/assets/e234ca5a-4aae-4128-97fb-4765582e8900" />
 
 
-# Optimization problems
-
-An objective function defines the goal of the optimization problem, specifying what needs to be maximized or minimized.
-It's the function that  we try to optimize (either make as large or as small as possible) based on the given constraints of the problem. 
-
-Based on the types of objective function and constraint variables, [optimization problems](https://developers.google.com/optimization/introduction/python) can have 3 broad categories.   
-
-<img width="356" alt="oo" src="https://github.com/user-attachments/assets/bae0bab4-7f72-4049-9ef0-2e9c1e3579d3" />
-
-
 #  Gradient & Hessian
 
 Let us also recapitulate gradient and Hessian. 
@@ -38,6 +28,17 @@ Hessian is a matrix of second order partial derivatives of a scaler field. A Hes
 
 And Jacobian is a matrix of gradients of a vector field.
 
+<img width="596" height="346" alt="33" src="https://github.com/user-attachments/assets/c725e397-b8a4-4a23-812f-e6244c079fe6" />
+
+
+# Optimization problems
+
+An objective function defines the goal of the optimization problem, specifying what needs to be maximized or minimized.
+It's the function that  we try to optimize (either make as large or as small as possible) based on the given constraints of the problem. 
+
+Based on the types of objective function and constraint variables, [optimization problems](https://developers.google.com/optimization/introduction/python) can have 3 broad categories.   
+
+<img width="356" alt="oo" src="https://github.com/user-attachments/assets/bae0bab4-7f72-4049-9ef0-2e9c1e3579d3" />
 
 
 # Optimization methods
