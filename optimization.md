@@ -1,18 +1,5 @@
 
 
-**Mathematical Formulation:**
-
-Objective function maximizes total sales. 
-
-<img width="168" alt="13" src="https://github.com/user-attachments/assets/d225fbc3-289d-4983-8f5a-124f4b2d5e0e" />
-
-Resource and time constraints are given by:
-
-<img width="353" alt="14" src="https://github.com/user-attachments/assets/9913411c-25df-48f5-90e0-0c1e5aa5d3f1" />
-
-
-x1 = #items of product A, x2 = #items of product B
-
 
 <img width="389" alt="15" src="https://github.com/user-attachments/assets/0bff54c7-e77b-4961-95e3-143b3753a6d4" />
 
