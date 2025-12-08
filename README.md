@@ -81,7 +81,8 @@ Solution: Optimal x1 and x2 are 45 and 75 respectively.
 <img width="563" height="188" alt="002" src="https://github.com/user-attachments/assets/8d52063b-1f05-4938-84ff-1e803475a3a0" />
 
 
- 3. **Non-Linear Programming** -> Objective function or (atleast one) constraint is non-linear
+
+ 3. [Non-Linear Programming](https://paulminogue.com/posts/a0d8c837-a40d-4b17-9d30-e0bd36a6befc)
 
 
 # Optimization with or without gradient
