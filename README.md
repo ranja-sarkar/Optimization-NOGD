@@ -33,13 +33,13 @@ And Jacobian is a matrix of gradients of a vector field.
 # Optimization problems
 
 An objective function defines the goal of the optimization problem, specifying what needs to be maximized or minimized.
-It's the function that  we try to optimize (either make as large or as small as possible) based on the given constraints of the problem. 
+It's the function that  we try to optimize (either make as large or small as possible) based on the given constraints of the problem. 
 
 Based on the types of objective function and constraint variables, [optimization problems](https://developers.google.com/optimization/introduction/python) can have 3 broad categories.   
 
 <img width="356" alt="oo" src="https://github.com/user-attachments/assets/bae0bab4-7f72-4049-9ef0-2e9c1e3579d3" />
 
-Optimization uses a rigorous mathematical model to determine the most efficient solution to a described problem. One must first identify an objective function (loss or cost), a quantitative measure of the model examples of which are profit, cost, energy. The objective is subject to constraints such as resources, time. 
+Optimization uses a rigorous mathematical model to determine the most efficient solution to a described problem. One must first identify an objective function (loss or cost), a quantitative measure examples of which are profit, cost, energy. The objective is subject to constraints such as resources, time. 
 
  1. **Linear Programming (LP)** ->  Objective function and constraints are both linear
  
@@ -48,7 +48,7 @@ Optimization uses a rigorous mathematical model to determine the most efficient 
  3. **Non-Linear Programming** -> Objective function or (atleast one) constraint is non-linear
 
 
-# Optimization methods
+# Optimization with or without gradient
 
 The categorization is strictly based on whether or not one can calculate or compute the gradient of objective function. The differentiability of the function makes us decide or choose the algorithm to use for the problem. This has been discussed in **chapter 10 of my book.** 
 
