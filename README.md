@@ -64,7 +64,12 @@ Solution: Optimal x1 and x2 are 45 and 75 respectively.
 <img width="464" height="294" alt="of" src="https://github.com/user-attachments/assets/534b08c1-6f30-446e-8dbb-7c2733c6151a" />
 
  
- 2. [Quadratic Programming (QP)](https://www.cvxpy.org/examples/basic/quadratic_program.html) 
+ 2. [Quadratic Programming (QP)](https://www.cvxpy.org/examples/basic/quadratic_program.html)
+
+    [Quadratic programs](https://scaron.info/blog/quadratic-programming-in-python.html) hey are the first step beyond linear programming in [convex optimization](https://www.cvxpy.org/). In chapter 4 of my book, I briefly touched upon convex functions and their optimization.
+
+    <img width="478" height="178" alt="cnc" src="https://github.com/user-attachments/assets/69e41cee-74e3-4587-b5cf-b7918c484f2b" />
+
  
  4. **Non-Linear Programming** -> Objective function or (atleast one) constraint is non-linear
 
