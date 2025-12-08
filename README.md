@@ -53,9 +53,9 @@ This repository contains an implementation of a Self-organizing Map that can be 
 
 For more on TSP: https://developers.google.com/optimization/routing/tsp
 
--------------
+# Gradient-free optimizers
 
-Well-known **optimization algorithms** for **continuous variables** in the objective function are simulated annealing, particle swarm method, genetic algorithm. 
+Well-known optimization algorithms for **continuous variables in the objective function** are simulated annealing, particle swarm method, genetic algorithm. 
 These are the ones that do not use gradient to optimize the model.
 
 1. **Simulated annealing**
