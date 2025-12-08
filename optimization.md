@@ -1,8 +1,6 @@
 
 
 
-Portfolio optimization: https://www.cvxpy.org/examples/basic/quadratic_program.html
-
 Convex optimization: https://www.cvxpy.org/
 
 An excerpt from my book (chapter 4) where I briefly touched upon convex functions and their optimization.
