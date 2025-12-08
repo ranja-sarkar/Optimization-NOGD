@@ -41,7 +41,7 @@ Based on the types of objective function and constraint variables, [optimization
 
 Optimization uses a rigorous mathematical model to determine the most efficient solution to a described problem. One must first identify an objective function (loss or cost), a quantitative measure examples of which are profit, cost, energy. The objective is subject to constraints such as resources, time. 
 
- 1. **Linear Programming (LP)** 
+ 1. [Linear Programming (LP)](https://mlabonne.github.io/blog/posts/2022-03-02-Linear_Programming.html) 
 
     Example:
 
