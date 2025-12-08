@@ -25,7 +25,6 @@ Hessian is a matrix of second order partial derivatives of a scaler field. A Hes
 
 <img width="603" height="215" alt="22" src="https://github.com/user-attachments/assets/6ee5c768-3da2-4d37-b01b-3afebaa70e12" />
 
-
 And Jacobian is a matrix of gradients of a vector field.
 
 <img width="596" height="346" alt="33" src="https://github.com/user-attachments/assets/c725e397-b8a4-4a23-812f-e6244c079fe6" />
@@ -39,6 +38,14 @@ It's the function that  we try to optimize (either make as large or as small as 
 Based on the types of objective function and constraint variables, [optimization problems](https://developers.google.com/optimization/introduction/python) can have 3 broad categories.   
 
 <img width="356" alt="oo" src="https://github.com/user-attachments/assets/bae0bab4-7f72-4049-9ef0-2e9c1e3579d3" />
+
+Optimization uses a rigorous mathematical model to determine the most efficient solution to a described problem. One must first identify an objective function (loss or cost), a quantitative measure of the model examples of which are profit, cost, energy. The objective is subject to constraints such as resources, time. 
+
+ 1. **Linear Programming (LP)** ->  Objective function and constraints are both linear
+ 
+ 2. **Quadratic Programming (QP)** -> Objective function is quadratic and constraints are linear
+ 
+ 3. **Non-Linear Programming** -> Objective function or (atleast one) constraint is non-linear
 
 
 # Optimization methods
