@@ -45,21 +45,22 @@ Optimization uses a rigorous mathematical model to determine the most efficient 
 
     Example:
 
-    Objective function: Goal is to maximize total profit, products A and B are sold at 25$ and 20$ respectively
+    Objective function: 
+       Goal is to maximize total profit, products A and B are sold at 25$ and 20$ respectively
 
     Constraints:
        1. Product A requires 20 resource units, product B 12 units
        2. Only 1800 resource units are available per day
        3. Both products require a production time of 1/15 hour
-       4. A working day has a total of 8 hours.
+       4. A working day has a total of 8 hours
 
     Mathematical Formulation:
 
-       Objective function is maximizing total sales (x1 = #items of product A, x2 = #items of product B). Resource and time constraints are given by:
-
-    <img width="419" height="193" alt="cf" src="https://github.com/user-attachments/assets/def837f1-fc0d-4198-93f3-937e17b3f143" />
+       Objective function is maximizing total sales (x1 = #items of product A, x2 = #items of product B). Resource and time constraints are defined accordingly.    
 
     Solution: Optimal x1 and x2 are 45 and 75 respectively.
+
+ <img width="419" height="193" alt="cf" src="https://github.com/user-attachments/assets/def837f1-fc0d-4198-93f3-937e17b3f143" />
 
  <img width="464" height="294" alt="of" src="https://github.com/user-attachments/assets/534b08c1-6f30-446e-8dbb-7c2733c6151a" />
 
