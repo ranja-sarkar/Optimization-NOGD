@@ -4,9 +4,9 @@
 <img width="523" alt="55" src="https://github.com/user-attachments/assets/abd24d03-d67b-4972-90a7-befa18fb83c5" />
 
 
-----
+# GRADIENT DESCENT 
 
-**Recap of GRADIENT DESCENT** - optimization method used in machine learning to minimize a function, often the loss function. It works by iteratively adjusting the model's parameters in the direction of the steepest descent of the function, aiming to find the minimum value.
+Let's recapitulate gradient descent. It is an optimization algorithm utilized in regression models, neural networks to minimize a function called the loss function, also called cost function. It works by iteratively adjusting the model's parameters in the direction of the steepest descent of the function, aiming to find the minimum value point.
 
  <img width="554" alt="gd" src="https://github.com/user-attachments/assets/e234ca5a-4aae-4128-97fb-4765582e8900" />
 
@@ -17,13 +17,22 @@
 An objective function defines the goal of the optimization problem, specifying what needs to be maximized or minimized.
 It's the function that  we try to optimize (either make as large or as small as possible) based on the given constraints of the problem. 
 
-Based on the types of objective function and constraint variables, optimization problems can have 3 broad categories.   
+Based on the types of objective function and constraint variables, [optimization problems](https://developers.google.com/optimization/introduction/python) can have 3 broad categories.   
 
 <img width="356" alt="oo" src="https://github.com/user-attachments/assets/bae0bab4-7f72-4049-9ef0-2e9c1e3579d3" />
 
-**Read the optimization markdown (md) file to know more.** 
 
-Solving various optimization problems using Google ORTools (python): https://developers.google.com/optimization/introduction/python
+#  Gradient & Hessian
+
+Let us also recapitulate gradient and Hessian. Gradient is the vector of first order derivatives of a scalar field, which guides you with the direction in a landscape. 
+
+
+<img width="820" height="312" alt="11" src="https://github.com/user-attachments/assets/b6451ca9-f744-4bfd-a31d-a64031848c39" />
+
+Hessian is a matrix of second order partial derivatives of a scaler field. A Hessian not only guides, it tells if you're climbing, falling, or stuck in the landscape. Those points are inflexion points, extrema, and saddle points of the function. 
+
+And Jacobian is a matrix of gradients of a vector field.
+
 
 
 # Optimization methods
