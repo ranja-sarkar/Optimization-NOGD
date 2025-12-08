@@ -1,5 +1,5 @@
 
-**Part 3 of my book consisting of two chapters** briefly discusses methods of mathematical optimization.⬇️
+**Part 3** of [my book](https://ranja-sarkar.github.io/) consisting of two chapters briefly discusses methods of mathematical optimization.
 
 <img width="523" alt="55" src="https://github.com/user-attachments/assets/abd24d03-d67b-4972-90a7-befa18fb83c5" />
 
@@ -10,7 +10,6 @@
 
  <img width="554" alt="gd" src="https://github.com/user-attachments/assets/e234ca5a-4aae-4128-97fb-4765582e8900" />
 
- ----
 
 # Optimization problems
 
@@ -26,7 +25,6 @@ Based on the types of objective function and constraint variables, optimization 
 
 Solving various optimization problems using Google ORTools (python): https://developers.google.com/optimization/introduction/python
 
------
 
 # Optimization methods
 
