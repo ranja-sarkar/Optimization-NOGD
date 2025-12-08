@@ -67,7 +67,7 @@ Optimization uses a rigorous mathematical model to determine the most efficient 
  
 ▶️ [Quadratic Programming (QP)](https://www.cvxpy.org/examples/basic/quadratic_program.html)
 
-[Quadratic programs](https://scaron.info/blog/quadratic-programming-in-python.html) hey are the first step beyond linear programming in [convex optimization](https://www.cvxpy.org/). In chapter 4 of my book, I briefly touched upon convex functions and their optimization.
+[Quadratic programs](https://scaron.info/blog/quadratic-programming-in-python.html) are the first-step beyond linear programming in [convex optimization](https://www.cvxpy.org/). In chapter 4 of my book, I briefly touched upon convex functions and their optimization.
 
  <img width="478" height="178" alt="cnc" src="https://github.com/user-attachments/assets/69e41cee-74e3-4587-b5cf-b7918c484f2b" />
 
@@ -109,20 +109,19 @@ A Self-organizing Map (SOM) can be implemented to find sub-optimal solutions of 
 Well-known optimization algorithms for **continuous variables in the objective function** are simulated annealing, particle swarm method, genetic algorithm. 
 These are the ones that do not use gradient to optimize the model.
 
-➡️ **Simulated annealing**
+➡️ **Simulated Annealing**
 
-   A Hill climbing algorithm is very basic optimization that explores a local search space. It starts at an initial point, which is often chosen randomly and continues to move to positions within its neighbourhood with a better solution. To execute it, we need to define the search space, step size of the algo, number of iterations, and an objective function. 
+   It is a metaheuristic probabilistic technique to approximate optimization in a local search space of a physical process wherein the system energy is minimized. A Hill climbing algorithm is very basic optimization that explores a local search space. It starts at an initial point, which is often chosen randomly and continues to move to positions within its neighbourhood with a better solution. To execute it, we need to define the search space, step size of the algo, number of iterations, and an objective function. 
 
    <img width="429" alt="11" src="https://github.com/user-attachments/assets/79424819-04bb-4897-8861-4a720418e41d" />
 
-It is a metaheuristic probabilistic technique to approximate optimization in a search (local) space of a physical process wherein the system energy is minimized.
 
 Simulated annealing chooses its next possible position similar to Hill climbing, but it accepts worse results with a probability that decreases with time. It simulates a temperature that decreases with each iteration, similar to a material cooling down. One of the algo parameters is annealing rate which is the rate at which the algorithmic temperature value decreases. 
 
 [An annealing rate above 1 increases the temperature over time.](https://simonblanke.github.io/gradient-free-optimizers-documentation/1.5/optimizers/simulated_annealing/)
 
 
-➡️ **Genetic algorithm**
+➡️ **Genetic Algorithm**
 
 An evolutionary algorithm like GA is a stochastic, metaheuristic approach to solving problems that would take too long to exhaustively process using deterministic methods. 
 
