@@ -59,6 +59,9 @@ Optimization uses a rigorous mathematical model to determine the most efficient 
 
     <img width="419" height="193" alt="cf" src="https://github.com/user-attachments/assets/def837f1-fc0d-4198-93f3-937e17b3f143" />
 
+Solution: Optimal x1 and x2 are 45 and 75 respectively.
+
+<img width="464" height="294" alt="of" src="https://github.com/user-attachments/assets/534b08c1-6f30-446e-8dbb-7c2733c6151a" />
 
  
  3. **Quadratic Programming (QP)** 
