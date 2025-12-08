@@ -60,11 +60,18 @@ These are the ones that do not use gradient to optimize the model.
 
 1. **Simulated annealing**
 
+   A Hill climbing algorithm is very basic optimization that explores a local search space. It starts at an initial point, which is often chosen randomly and continues to move to positions within its neighbourhood with a better solution. To execute it, we need to define the search space, step size of the algo, number of iterations, and an objective function. 
+
    <img width="429" alt="11" src="https://github.com/user-attachments/assets/79424819-04bb-4897-8861-4a720418e41d" />
 
 It is a metaheuristic probabilistic technique to approximate optimization in a search (local) space of a physical process wherein the system energy is minimized.
 
 Reference: https://simonblanke.github.io/gradient-free-optimizers-documentation/1.5/optimizers/simulated_annealing/
+
+Simulated annealing chooses its next possible position similar to Hill climbing, but it accepts worse results with a probability that decreases with time. It simulates a temperature that decreases with each iteration, similar to a material cooling down. One of the algo parameters is annealing rate which is the rate at which the algorithmic temperature value decreases. 
+
+[An annealing rate above 1 increases the temperature over time.]
+
 
 2. **Genetic algorithm** (GA)
 
