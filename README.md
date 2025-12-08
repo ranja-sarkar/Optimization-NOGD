@@ -76,12 +76,14 @@ Optimization uses a rigorous mathematical model to determine the most efficient 
  <img width="224" height="164" alt="co" src="https://github.com/user-attachments/assets/4c60d753-9dfd-4187-85fc-1737db06dc1d" />
 
  
- The Hessian matrix has two important utilities - to know whether a function is concave or convex, to determine whether a critical point is a local minimum or maximum, or a saddle point [If the gradient of a function is zero at some point x, then the function f(x) has a critical point at x].
+The Hessian matrix has two important utilities - to know whether a function is concave or convex, to determine whether a critical point is a local minimum or maximum, or a saddle point [If the gradient of a function is zero at some point x, then the function f(x) has a critical point at x].
 
 <img width="562" height="182" alt="001" src="https://github.com/user-attachments/assets/8bfb01f8-7019-42e8-807a-fa2a69580c13" />
 <img width="563" height="188" alt="002" src="https://github.com/user-attachments/assets/8d52063b-1f05-4938-84ff-1e803475a3a0" />
 
-The LASSO regularization technique used in regression problems can be formulated as a quadratic programming problem - least squares optimization with linear inequality constraints. 
+
+The LASSO regularization technique used in regression problems can be formulated as a QP problem - least squares optimization with linear inequality constraints. 
+
 
  ▶️ [Non-Linear Programming](https://paulminogue.com/posts/a0d8c837-a40d-4b17-9d30-e0bd36a6befc)
 
