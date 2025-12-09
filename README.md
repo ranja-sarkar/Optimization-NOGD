@@ -73,8 +73,7 @@ Optimization uses a rigorous mathematical model to determine the most efficient 
 
  When we talk about convex and concave functions, we think of the Hessian matrix. 
 
-![Uploading is.png…]()
-
+<img width="365" height="193" alt="is" src="https://github.com/user-attachments/assets/c8c82fb9-669c-4bd1-8a2a-4f73ca237faa" />
  
 The Hessian matrix has two important utilities - to know whether a function is concave or convex, to determine whether a critical point is a local minimum or maximum, or a saddle point [If the gradient of a function is zero at some point x, then the function f(x) has a critical point at x].
 
