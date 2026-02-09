@@ -1,5 +1,5 @@
 
-**Part 3** of [my book](https://ranja-sarkar.github.io/) consisting of two chapters discusses mathematical optimization. One of them explores various widely used techniques of optimization, including hyperparameter tuning of machine learning models. The other one is about optimization using gradient descent and gradient-free optimization. Which method of optimization is considered for a problem entirely depends on the objective function we want to optimize. 
+Mathematical optimization is discussed in **Part 3** of [my book](https://ranja-sarkar.github.io/) in two chapters. One of them explores various widely used techniques of optimization, including hyperparameter tuning of machine learning models. The other one is about optimization using gradient descent and gradient-free optimization. Which method of optimization is considered for a problem entirely depends on the objective function we want to optimize. 
 
 
 # Gradient Descent
@@ -90,7 +90,10 @@ A classic example of a problem solved by nonlinear programming is portfolio opti
 
 The categorization/classification of optimization problems is strictly based on whether or not one can calculate/compute the gradient of objective function. The differentiability of the function makes us decide/choose the algorithm to be used for solving the problem. This has been discussed in **chapter 10 of my book.** 
 
-<img width="474" alt="5" src="https://github.com/user-attachments/assets/772ada5b-da96-40ab-a1c4-ac41130e3f7a" />
+
+<img width="381" height="280" alt="opt" src="https://github.com/user-attachments/assets/cf6b64de-3cf8-4840-b32e-d5d50e5c51c2" />
+
+Optimization methods using gradient descent algorithm can be called parametric as they are based on assumptions, while the ones not using gradientdescent are non-parametric.
 
 The space for searching global or local minimum solution wrt cost/objective function can be either continuous or discrete.  
 
