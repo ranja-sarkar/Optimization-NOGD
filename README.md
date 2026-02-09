@@ -94,7 +94,8 @@ The categorization/classification of optimization problems is strictly based on 
 
 The space for searching global or local minimum solution wrt cost/objective function can be either continuous or discrete.  
 
-<img width="437" alt="22" src="https://github.com/user-attachments/assets/f549e1c3-5f72-4e5a-b040-f9b5e1513427" />
+<img width="297" height="284" alt="obj arg" src="https://github.com/user-attachments/assets/d5c283d8-ae25-4707-b311-e34108a80aeb" />
+
 
 
 An example of optimization problem with discrete variables in the objective function is the [travelling salesman problem (TSP)](https://diego.codes/post/som-tsp/). It asks, "what’s the shortest possible route visiting every city once and returning to the start?" As the number of cities grows, brute-force solutions become computationally infeasible.
