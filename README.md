@@ -35,7 +35,8 @@ It's the function that  we try to optimize (either make as large or small as pos
 
 Based on the types of objective function and constraint variables, [optimization problems](https://developers.google.com/optimization/introduction/python) can have 3 broad categories.   
 
-<img width="356" alt="oo" src="https://github.com/user-attachments/assets/bae0bab4-7f72-4049-9ef0-2e9c1e3579d3" />
+<img width="348" height="225" alt="optP" src="https://github.com/user-attachments/assets/b871d7b7-3b4f-40d4-a3cb-85a185a8eb97" />
+
 
 Optimization uses a rigorous mathematical model to determine the most efficient solution to a described problem. One must first identify an objective function (loss or cost), a quantitative measure examples of which are profit, cost, energy. The objective is subject to constraints such as resources, time. 
 
