@@ -139,7 +139,7 @@ GA is inspired by the process of natural selection that belongs to the larger cl
 
 PSO does not use the gradient, which means it does not require that the objective of the optimization problem is a differentiable function as required by classical optimization methods such as gradient descent and quasi-newton methods. The caveat is metaheuristic algorithms such as PSO do not guarantee that an optimal solution will ever be found.
 
-# Summary of gradient-free optimization
+# Summary 
 
 **Types of metaheuristic algorithms** ⤵️
 
